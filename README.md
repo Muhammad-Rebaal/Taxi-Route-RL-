@@ -12,4 +12,4 @@ The Taxi-v3 environment is a strategic simulation, offering a grid-based arena w
 - **Observation Space:** Comprises 500 discrete states, accounting for 25 taxi positions, 5 potential passenger locations, and 4 destinations. 
 - **Rewards System:** Includes a penalty of -1 for each step taken without other rewards, +20 for successful passenger delivery, and -10 for illegal pickup or dropoff actions. Actions resulting in no operation, like hitting a wall, also incur a time step penalty.
 
-![Taxi-v3 environment snapshot](https://camo.githubusercontent.com/6e45eed4d4f01b6fde53af5301f3d51609d7aa01c2017e34350fb72c6d2419cc/68747470733a2f2f7777772e67796d6c6962726172792e6465762f5f696d616765732f746178692e676966)
+![Taxi-v3 environment snapshot](https://miro.medium.com/v2/resize:fit:1100/1*-fvGNHiKbCfYjf5Lgh_kdQ.gif)
